@@ -9,7 +9,6 @@
     }
 }
 body{
-    background-color: aqua;
     @media (width <= 768px) {
         width: 105vw;
     }
